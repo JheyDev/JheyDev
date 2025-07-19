@@ -17,5 +17,5 @@
 ---
 
 ## 🔗 Vamos nos conectar!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jennyfersr/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jennyferribeiro/)
 📬 jennyfer.souzar@gmail.com
